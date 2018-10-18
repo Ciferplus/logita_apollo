@@ -137,6 +137,7 @@ image_transport_pligin/image_transport_plugin
 安装成功现象：
 
 ![roscore](./images/roscore_output.JPG)
+
 测试时相关故障排除：
 	 
 ## if
